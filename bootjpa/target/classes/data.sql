@@ -1,0 +1,5 @@
+insert into alien values(1,'Rohit','java')
+insert into alien values(2,'Parijat','C++')
+insert into alien values(3,'Ratik','javascript')
+insert into alien values(4,'Vibhav','C#')
+insert into alien values(5,'Urimil','python')
